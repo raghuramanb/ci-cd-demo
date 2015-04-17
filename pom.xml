@@ -24,6 +24,6 @@
         
   </dependencies>
   <build>
-    <finalName>ci-cd-demo</finalName>
+    <finalName>ci-cd-demo</finalName>      
   </build>
 </project>
