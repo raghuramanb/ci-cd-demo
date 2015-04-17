@@ -8,7 +8,7 @@ public class TestVersion extends TestCase {
 
 	@Test
 	public void testGetVersion() {
-		String expectedVersion = "2.0";
+		String expectedVersion = "3.0";
 		Version version = new Version();
 		assertTrue("Expected version mismatch", version.getVersion().equalsIgnoreCase(expectedVersion));
 	}
